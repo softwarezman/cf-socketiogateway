@@ -16,7 +16,7 @@ This implementation is based on the [netty-socketio](https://github.com/mrniko/n
     * Java Class: com.sra.socketiogateway.SocketIOGateway
     * Startup Timeout: 30 seconds
     * Stop on Startup Timeout: checked
-	
+
 ##Configuring the Gateway##
 * Log in to the ColdFusion administrator and navigate to the Event Gateways > Gateway Instances page.
 * Under Add / Edit ColdFusion Event Gateway Instances enter the following:
